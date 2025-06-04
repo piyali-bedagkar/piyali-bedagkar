@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Piyali Bedagkar</h1>
-<h3 align="center">Aspiring Data Scientist | AI Researcher | Data Storyteller</h3>
+<h1 align="center">Hi there, I'm Piyali Bedagkar</h1>
+<h3 align="center">Aspiring Data Scientist | AI Researcher | Data Analyst</h3>
 
 ---
 
@@ -8,9 +8,6 @@
 📡 Honors in IoT with B.E. in Computer Science  
 
 ---
-
-### 🧠 Current Interests:
-### Hi, I’m Piyali 👋
 
 I see data as more than just numbers—it's human behavior, decisions, and stories encoded in rows and columns. I’m driven by the idea that behind every dataset lies a pattern waiting to be uncovered and a decision waiting to be improved.
 
@@ -43,6 +40,6 @@ Let’s connect. Let’s build.
 ---
 
 📊 *“Transforming messy data into meaningful insights.”*  
-💌 Let’s connect: [LinkedIn](https://www.linkedin.com/in/piyalibedagkar) | [GitHub](https://github.com/piyali-bedagkar)
+💌 Let’s connect: [LinkedIn](https://www.linkedin.com/in/piyalibedagkar) | [E-mail](mailto:piyalibedagkar.pb@gmail.com)
 
 ---
