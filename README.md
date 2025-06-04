@@ -35,8 +35,5 @@ Let’s connect. Let’s build.
 </p>
 
 ---
-
-📊 *“Transforming messy data into meaningful insights.”*  
+ 
 💌 Let’s connect: [LinkedIn](https://www.linkedin.com/in/piyalibedagkar) | [E-mail](mailto:piyalibedagkar.pb@gmail.com)
-
----
