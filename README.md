@@ -10,9 +10,20 @@
 ---
 
 ### 🧠 Current Interests:
-- GenAI Research & Prompt Engineering
-- Real-time ML Systems (Kafka, Spark, Streamlit)
-- Predictive Modeling | Data Storytelling
+### Hi, I’m Piyali 👋
+
+I see data as more than just numbers—it's human behavior, decisions, and stories encoded in rows and columns. I’m driven by the idea that behind every dataset lies a pattern waiting to be uncovered and a decision waiting to be improved.
+
+My journey with data has spanned building intelligent dashboards for Citi’s financial systems, designing predictive models, and even exploring how generative AI can responsibly shape the future of education.
+
+My work has been recognized across domains—whether that’s ranking in the Top 5 out of 1000+ teams at a national IoT innovation challenge, earning a $5000 merit scholarship, or representing my graduate cohort as a student leader.
+
+What excites me most is applying data in ways that are **useful, ethical, and human-centered**—from helping students learn better to forecasting city traffic, to building tools that make people pause and think.
+
+I’m always up for meaningful problems, messy datasets, and good conversations.
+
+Let’s connect. Let’s build.
+
 
 ---
 
