@@ -1,11 +1,10 @@
 <h1 align="center">Hi there, I'm Piyali Bedagkar</h1>
-<h3 align="center">Aspiring Data Scientist | AI Researcher | Data Analyst</h3>
 
 ---
 
 🎓 Master's in Information Systems @ University of Maryland  
 🎯 Ex-Data Quality Analyst @ Virtusa | RA @ UMD on AI in EdTech  
-📡 Honors in IoT with B.E. in Computer Science  
+📡 Bachelors in Computer Science with Honors in IoT 
 
 ---
 
